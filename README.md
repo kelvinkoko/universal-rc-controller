@@ -1,6 +1,10 @@
 # Universal RC Controller
 Control any RC model from computer with multi-module
 
+Details about this project:
+
+https://medium.com/@kelvinkoko/control-any-rc-model-programmatically-from-computer-2e2cdbc0e4aa
+
 # Background
 This project demonstrate the setup of using Arduino and Multi-Moodule to control any RC model directly with stock radio signal without hacking the RC model itself.
 
